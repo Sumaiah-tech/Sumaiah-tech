@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sumaiah 👋
 
-<!--
-**Sumaiah-tech/Sumaiah-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.E. CSE (Data Science) Student at DSCE
 
-Here are some ideas to get you started:
+## Interests
+- Data Science
+- Machine Learning
+- AI/ML Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Building AI Projects
+
+## Featured Projects
+- Carbon Tax Policy Simulator
+- DiCheck – Diabetes Probability Predictor
+- Plate Donor
+- AI Mock Interview Platform
+
+## Tech Stack
+Python • SQL • C++ • Flask • React • Machine Learning
