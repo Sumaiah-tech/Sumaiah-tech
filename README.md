@@ -30,8 +30,6 @@ Created a machine learning web application that predicts diabetes risk using use
 
 ## Tech Stack
 
-**Languages:** Python, SQL, C++, C
-
 **Frameworks & Tools:** Flask, React, NumPy, Pandas, Scikit-learn, Git, GitHub
 
 **Domains:** Data Science, Machine Learning, AI Applications
